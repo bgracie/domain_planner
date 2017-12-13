@@ -1,0 +1,117 @@
+---
+  -
+    singular_name: Care Provider
+    plural_name: Care Providers
+  -
+    singular_name: Care Provider Person
+    plural_name: Care Provider People
+  -
+    singular_name: Allied Health Provider
+    plural_name: Allied Health Providers
+  -
+    singular_name: Medical Specialist
+    plural_name: Medical Specialists
+  -
+    singular_name: General Practitioner
+    plural_name: General Practitioners
+  -
+    singular_name: Care Provider Organization
+    plural_name: Care Provider Organizations
+  -
+    singular_name: Hospital
+    plural_name: Hospitals
+  -
+    singular_name: Office
+    plural_name: Offices
+  -
+    singular_name: Provider Location
+    plural_name: Provider Locations
+    attributes:
+      - Name on Door
+      - Street Address
+      - Suite Address
+  -
+    singular_name: Area of Practice
+    plural_name: Areas of Practice
+  -
+    singular_name: Division of Family Practice
+    plural_name: Divisions of Family Practice
+  -
+    singular_name: City
+    plural_name: Cities
+  -
+    singular_name: Specialty
+    plural_name: Specialties
+  -
+    singular_name: Healthcare Topic
+    plural_name: Healthcare Topics
+  -
+    singular_name: Care Service
+    plural_name: Care Services
+    examples:
+      - Angioplasty
+      - Arthroscopy
+  -
+    singular_name: Domain of Care
+    plural_name: Domains of Care
+    examples:
+      - Cardiology
+      - Rheumatology
+  -
+    singular_name: Health Problem
+    plural_name: Health Problems
+    examples:
+      - Cancer
+      - Diabetes
+  -
+    singular_name: Type of Health
+    plural_name: Types of Health
+    examples:
+      - Heart
+      - Lung
+  -
+    singular_name: Document
+    plural_name: Documents
+    definition: Currently 'Content Items'/'Resources'
+  -
+    singular_name: News Item
+    plural_name: News Items
+  -
+    singular_name: Form
+    plural_name: Forms
+  -
+    singular_name: Admin Team
+    plural_name: Admin Teams
+  -
+    singular_name: Divisional Admin Team
+    plural_name: Divisional Admin Teams
+  -
+    singular_name: Provincial Admin Team
+    plural_name: Provincial Admin Teams
+    singleton: true
+  -
+    singular_name: Access Key
+    plural_name: Access Keys
+  -
+    singular_name: User
+    plural_name: Users
+  -
+    singular_name: Super Admin
+    plural_name: Super Admins
+  -
+    singular_name: Admin Jurisdiction
+    plural_name: Admin Jurisdictions
+  -
+    singular_name: Admin
+    plural_name: Admins
+  -
+    singular_name: Site View
+    plural_name: Site Views
+  -
+    singular_name: Local Referral Area
+    plural_name: Local Referral Areas
+  -
+    singular_name: Population
+    plural_name: Populations
+    examples:
+      - First Nations

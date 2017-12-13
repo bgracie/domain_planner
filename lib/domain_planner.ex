@@ -12,7 +12,7 @@ defmodule DomainPlanner do
       :world
 
   """
-  def hello do
+  def compile do
     :world
   end
 end
