@@ -1,0 +1,55 @@
+---
+  -
+    superclass: Care Provider
+    subclass: Care Provider Person
+  -
+    superclass: Care Provider Person
+    subclass: General Practitioner
+  -
+    superclass: Care Provider Person
+    subclass: Medical Specialist
+  -
+    superclass: Care Provider Person
+    subclass: Allied Health Provider
+  -
+    superclass: Care Provider
+    subclass: Care Provider Organization
+  -
+    superclass: Provider Location
+    subclass: Office
+  -
+    superclass: Provider Location
+    subclass: Hospital
+  -
+    superclass: Healthcare Topic
+    subclass: Care Service
+  -
+    superclass: Healthcare Topic
+    subclass: Domain of Care
+  -
+    superclass: Healthcare Topic
+    subclass: Health Problem
+  -
+    superclass: Healthcare Topic
+    subclass: Type of Health
+  -
+    superclass: Healthcare Topic
+    subclass: Area of Practice
+  -
+    superclass: Access Key
+    subclass: User
+  -
+    superclass: Access Key
+    subclass: Admin
+  -
+    superclass: Access Key
+    subclass: Super Admin
+  -
+    superclass: Admin Team
+    subclass: Provincial Admin Team
+  -
+    superclass: Admin Team
+    subclass: Divisional Admin Team
+  -
+    superclass: Healthcare Topic
+    subclass: Population

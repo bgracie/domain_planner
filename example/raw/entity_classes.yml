@@ -88,7 +88,6 @@
   -
     singular_name: Provincial Admin Team
     plural_name: Provincial Admin Teams
-    singleton: true
   -
     singular_name: Access Key
     plural_name: Access Keys

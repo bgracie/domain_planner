@@ -6,7 +6,7 @@ defmodule Mix.Tasks.DomainPlanner.Compile do
 
   def run(args) do
     [ raw_dir, compiled_dir ] = args
-    IO.puts "Raw dir: #{raw_dir}"
-    IO.puts "Compiled dir: #{compiled_dir}"
+
+    DomainPlanner.compile(raw_dir, compiled_dir)
   end
 end
