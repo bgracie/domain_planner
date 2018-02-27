@@ -1,4 +1,4 @@
-[[< Previous]](documents.md) [[-- Index --]](entity_class_index.md) [[Next >]](forms.md)
+[[< Previous]](healthcare_topics.md) [[-- Index --]](entity_class_index.md) [[Next >]](local_referral_areas.md)
 ___
 # Hospitals
 
@@ -10,4 +10,4 @@ ___
   * [Provider Locations](provider_locations.md) may be nested inside other ones.
 
 ___
-[[< Previous]](documents.md) [[-- Index --]](entity_class_index.md) [[Next >]](forms.md)
+[[< Previous]](healthcare_topics.md) [[-- Index --]](entity_class_index.md) [[Next >]](local_referral_areas.md)

@@ -1,4 +1,4 @@
-[[< Previous]](healthcare_topics.md) [[-- Index --]](entity_class_index.md) [[Next >]](domains_of_care.md)
+[[< Previous]](documents.md) [[-- Index --]](entity_class_index.md) [[Next >]](forms.md)
 ___
 # Domains of Care
 
@@ -15,4 +15,4 @@ ___
   * [Documents](documents.md) may be relevant to various [Healthcare Topics](healthcare_topics.md).
 
 ___
-[[< Previous]](healthcare_topics.md) [[-- Index --]](entity_class_index.md) [[Next >]](domains_of_care.md)
+[[< Previous]](documents.md) [[-- Index --]](entity_class_index.md) [[Next >]](forms.md)

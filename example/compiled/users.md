@@ -1,4 +1,4 @@
-[[< Previous]](local_referral_areas.md) [[-- Index --]](entity_class_index.md) [[Next >]](care_providers.md)
+[[< Previous]](types_of_health.md) [[-- Index --]](entity_class_index.md) [[Next >]](access_keys.md)
 ___
 # Users
 
@@ -11,4 +11,4 @@ ___
   * An [Access Key](access_keys.md)'s attached [Site Views](site_views.md) determines which [Documents](documents.md) and [News Items](news_items.md) are displayed to them.
 
 ___
-[[< Previous]](local_referral_areas.md) [[-- Index --]](entity_class_index.md) [[Next >]](care_providers.md)
+[[< Previous]](types_of_health.md) [[-- Index --]](entity_class_index.md) [[Next >]](access_keys.md)

@@ -1,4 +1,4 @@
-[[< Previous]](allied_health_providers.md) [[-- Index --]](entity_class_index.md) [[Next >]](general_practitioners.md)
+[[< Previous]](admin_teams.md) [[-- Index --]](entity_class_index.md) [[Next >]](allied_health_providers.md)
 ___
 # Admins
 
@@ -11,4 +11,4 @@ ___
   * An [Access Key](access_keys.md)'s attached [Site Views](site_views.md) determines which [Documents](documents.md) and [News Items](news_items.md) are displayed to them.
 
 ___
-[[< Previous]](allied_health_providers.md) [[-- Index --]](entity_class_index.md) [[Next >]](general_practitioners.md)
+[[< Previous]](admin_teams.md) [[-- Index --]](entity_class_index.md) [[Next >]](allied_health_providers.md)

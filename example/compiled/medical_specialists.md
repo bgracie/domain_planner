@@ -1,4 +1,4 @@
-[[< Previous]](forms.md) [[-- Index --]](entity_class_index.md) [[Next >]](divisional_admin_teams.md)
+[[< Previous]](local_referral_areas.md) [[-- Index --]](entity_class_index.md) [[Next >]](news_items.md)
 ___
 # Medical Specialists
 
@@ -19,4 +19,4 @@ ___
   * The [Provincial Admin Team](provincial_admin_teams.md) is responsible for the whole province's [Care Providers](care_providers.md).
 
 ___
-[[< Previous]](forms.md) [[-- Index --]](entity_class_index.md) [[Next >]](divisional_admin_teams.md)
+[[< Previous]](local_referral_areas.md) [[-- Index --]](entity_class_index.md) [[Next >]](news_items.md)

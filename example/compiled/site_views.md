@@ -1,4 +1,4 @@
-[[< Previous]](super_admins.md) [[-- Index --]](entity_class_index.md) [[Next >]](admins.md)
+[[< Previous]](provincial_admin_teams.md) [[-- Index --]](entity_class_index.md) [[Next >]](specialties.md)
 ___
 # Site Views
 
@@ -9,4 +9,4 @@ ___
   * An [Access Key](access_keys.md)'s attached [Site Views](site_views.md) determines which [Documents](documents.md) and [News Items](news_items.md) are displayed to them.
 
 ___
-[[< Previous]](super_admins.md) [[-- Index --]](entity_class_index.md) [[Next >]](admins.md)
+[[< Previous]](provincial_admin_teams.md) [[-- Index --]](entity_class_index.md) [[Next >]](specialties.md)

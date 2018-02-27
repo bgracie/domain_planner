@@ -1,4 +1,4 @@
-[[< Previous]](general_practitioners.md) [[-- Index --]](entity_class_index.md) [[Next >]](hospitals.md)
+[[< Previous]](allied_health_providers.md) [[-- Index --]](entity_class_index.md) [[Next >]](care_provider_organizations.md)
 ___
 # Areas of Practice
 
@@ -10,4 +10,4 @@ ___
   * [Documents](documents.md) may be relevant to various [Healthcare Topics](healthcare_topics.md).
 
 ___
-[[< Previous]](general_practitioners.md) [[-- Index --]](entity_class_index.md) [[Next >]](hospitals.md)
+[[< Previous]](allied_health_providers.md) [[-- Index --]](entity_class_index.md) [[Next >]](care_provider_organizations.md)

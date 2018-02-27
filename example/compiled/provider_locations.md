@@ -1,4 +1,4 @@
-[[< Previous]](access_keys.md) [[-- Index --]](entity_class_index.md) [[Next >]](super_admins.md)
+[[< Previous]](populations.md) [[-- Index --]](entity_class_index.md) [[Next >]](provincial_admin_teams.md)
 ___
 # Provider Locations
 
@@ -16,4 +16,4 @@ ___
   * [Provider Locations](provider_locations.md) may be nested inside other ones.
 
 ___
-[[< Previous]](access_keys.md) [[-- Index --]](entity_class_index.md) [[Next >]](super_admins.md)
+[[< Previous]](populations.md) [[-- Index --]](entity_class_index.md) [[Next >]](provincial_admin_teams.md)

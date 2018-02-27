@@ -1,6 +1,6 @@
-[[< Previous]](admin_jurisdictions.md) [[-- Index --]](entity_class_index.md) [[Next >]](site_views.md)
+[[< Previous]](site_views.md) [[-- Index --]](entity_class_index.md) [[Next >]](super_admins.md)
 ___
 # Specialties
 
 ___
-[[< Previous]](admin_jurisdictions.md) [[-- Index --]](entity_class_index.md) [[Next >]](site_views.md)
+[[< Previous]](site_views.md) [[-- Index --]](entity_class_index.md) [[Next >]](super_admins.md)

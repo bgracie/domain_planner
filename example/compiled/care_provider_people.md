@@ -1,4 +1,4 @@
-[[< Previous]](hospitals.md) [[-- Index --]](entity_class_index.md) [[Next >]](provider_locations.md)
+[[< Previous]](care_provider_organizations.md) [[-- Index --]](entity_class_index.md) [[Next >]](care_providers.md)
 ___
 # Care Provider People
 
@@ -24,4 +24,4 @@ ___
   * The [Provincial Admin Team](provincial_admin_teams.md) is responsible for the whole province's [Care Providers](care_providers.md).
 
 ___
-[[< Previous]](hospitals.md) [[-- Index --]](entity_class_index.md) [[Next >]](provider_locations.md)
+[[< Previous]](care_provider_organizations.md) [[-- Index --]](entity_class_index.md) [[Next >]](care_providers.md)

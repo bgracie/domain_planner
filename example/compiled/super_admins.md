@@ -1,4 +1,4 @@
-[[< Previous]](admins.md) [[-- Index --]](entity_class_index.md) [[Next >]](local_referral_areas.md)
+[[< Previous]](specialties.md) [[-- Index --]](entity_class_index.md) [[Next >]](types_of_health.md)
 ___
 # Super Admins
 
@@ -10,4 +10,4 @@ ___
   * An [Access Key](access_keys.md)'s attached [Site Views](site_views.md) determines which [Documents](documents.md) and [News Items](news_items.md) are displayed to them.
 
 ___
-[[< Previous]](admins.md) [[-- Index --]](entity_class_index.md) [[Next >]](local_referral_areas.md)
+[[< Previous]](specialties.md) [[-- Index --]](entity_class_index.md) [[Next >]](types_of_health.md)

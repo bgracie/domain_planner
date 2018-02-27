@@ -1,4 +1,4 @@
-[[< Previous]](care_provider_people.md) [[-- Index --]](entity_class_index.md) [[Next >]](medical_specialists.md)
+[[< Previous]](admin_jurisdictions.md) [[-- Index --]](entity_class_index.md) [[Next >]](admins.md)
 ___
 # Admin Teams
 
@@ -11,4 +11,4 @@ ___
   * [Admin Teams](admin_teams.md) are composed of [Admins](admins.md).
 
 ___
-[[< Previous]](care_provider_people.md) [[-- Index --]](entity_class_index.md) [[Next >]](medical_specialists.md)
+[[< Previous]](admin_jurisdictions.md) [[-- Index --]](entity_class_index.md) [[Next >]](admins.md)

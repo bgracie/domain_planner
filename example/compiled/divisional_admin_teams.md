@@ -1,4 +1,4 @@
-[[< Previous]](divisions_of_family_practice.md) [[-- Index --]](entity_class_index.md) [[Next >]](specialties.md)
+[[< Previous]](cities.md) [[-- Index --]](entity_class_index.md) [[Next >]](divisions_of_family_practice.md)
 ___
 # Divisional Admin Teams
 
@@ -12,4 +12,4 @@ ___
   * [Admin Teams](admin_teams.md) are composed of [Admins](admins.md).
 
 ___
-[[< Previous]](divisions_of_family_practice.md) [[-- Index --]](entity_class_index.md) [[Next >]](specialties.md)
+[[< Previous]](cities.md) [[-- Index --]](entity_class_index.md) [[Next >]](divisions_of_family_practice.md)

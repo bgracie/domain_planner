@@ -1,4 +1,4 @@
-[[< Previous]](provincial_admin_teams.md) [[-- Index --]](entity_class_index.md) [[Next >]](users.md)
+[[< Previous]](offices.md) [[-- Index --]](entity_class_index.md) [[Next >]](provider_locations.md)
 ___
 # Populations
 
@@ -14,4 +14,4 @@ ___
   * [Documents](documents.md) may be relevant to various [Healthcare Topics](healthcare_topics.md).
 
 ___
-[[< Previous]](provincial_admin_teams.md) [[-- Index --]](entity_class_index.md) [[Next >]](users.md)
+[[< Previous]](offices.md) [[-- Index --]](entity_class_index.md) [[Next >]](provider_locations.md)

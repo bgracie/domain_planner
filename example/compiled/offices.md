@@ -1,4 +1,4 @@
-[[< Previous]](divisional_admin_teams.md) [[-- Index --]](entity_class_index.md) [[Next >]](access_keys.md)
+[[< Previous]](news_items.md) [[-- Index --]](entity_class_index.md) [[Next >]](populations.md)
 ___
 # Offices
 
@@ -10,4 +10,4 @@ ___
   * [Provider Locations](provider_locations.md) may be nested inside other ones.
 
 ___
-[[< Previous]](divisional_admin_teams.md) [[-- Index --]](entity_class_index.md) [[Next >]](access_keys.md)
+[[< Previous]](news_items.md) [[-- Index --]](entity_class_index.md) [[Next >]](populations.md)

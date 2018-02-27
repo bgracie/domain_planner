@@ -1,4 +1,4 @@
-[[< Previous]](medical_specialists.md) [[-- Index --]](entity_class_index.md) [[Next >]](care_provider_organizations.md)
+[[< Previous]](admins.md) [[-- Index --]](entity_class_index.md) [[Next >]](areas_of_practice.md)
 ___
 # Allied Health Providers
 
@@ -19,4 +19,4 @@ ___
   * The [Provincial Admin Team](provincial_admin_teams.md) is responsible for the whole province's [Care Providers](care_providers.md).
 
 ___
-[[< Previous]](medical_specialists.md) [[-- Index --]](entity_class_index.md) [[Next >]](care_provider_organizations.md)
+[[< Previous]](admins.md) [[-- Index --]](entity_class_index.md) [[Next >]](areas_of_practice.md)

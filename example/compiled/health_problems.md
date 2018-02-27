@@ -1,4 +1,4 @@
-[[< Previous]](health_problems.md) [[-- Index --]](entity_class_index.md) [[Next >]](documents.md)
+[[< Previous]](general_practitioners.md) [[-- Index --]](entity_class_index.md) [[Next >]](healthcare_topics.md)
 ___
 # Health Problems
 
@@ -15,4 +15,4 @@ ___
   * [Documents](documents.md) may be relevant to various [Healthcare Topics](healthcare_topics.md).
 
 ___
-[[< Previous]](health_problems.md) [[-- Index --]](entity_class_index.md) [[Next >]](documents.md)
+[[< Previous]](general_practitioners.md) [[-- Index --]](entity_class_index.md) [[Next >]](healthcare_topics.md)

@@ -1,4 +1,4 @@
-[[< Previous]](specialties.md) [[-- Index --]](entity_class_index.md) [[Next >]](care_services.md)
+[[< Previous]](divisions_of_family_practice.md) [[-- Index --]](entity_class_index.md) [[Next >]](domains_of_care.md)
 ___
 # Documents
 
@@ -10,4 +10,4 @@ ___
   * An [Access Key](access_keys.md)'s attached [Site Views](site_views.md) determines which [Documents](documents.md) and [News Items](news_items.md) are displayed to them.
 
 ___
-[[< Previous]](specialties.md) [[-- Index --]](entity_class_index.md) [[Next >]](care_services.md)
+[[< Previous]](divisions_of_family_practice.md) [[-- Index --]](entity_class_index.md) [[Next >]](domains_of_care.md)

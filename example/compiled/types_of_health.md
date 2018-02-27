@@ -1,4 +1,4 @@
-[[< Previous]](site_views.md) [[-- Index --]](entity_class_index.md) [[Next >]](populations.md)
+[[< Previous]](super_admins.md) [[-- Index --]](entity_class_index.md) [[Next >]](users.md)
 ___
 # Types of Health
 
@@ -15,4 +15,4 @@ ___
   * [Documents](documents.md) may be relevant to various [Healthcare Topics](healthcare_topics.md).
 
 ___
-[[< Previous]](site_views.md) [[-- Index --]](entity_class_index.md) [[Next >]](populations.md)
+[[< Previous]](super_admins.md) [[-- Index --]](entity_class_index.md) [[Next >]](users.md)

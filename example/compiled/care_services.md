@@ -1,4 +1,4 @@
-[[< Previous]](provider_locations.md) [[-- Index --]](entity_class_index.md) [[Next >]](divisions_of_family_practice.md)
+[[< Previous]](care_providers.md) [[-- Index --]](entity_class_index.md) [[Next >]](cities.md)
 ___
 # Care Services
 
@@ -15,4 +15,4 @@ ___
   * [Documents](documents.md) may be relevant to various [Healthcare Topics](healthcare_topics.md).
 
 ___
-[[< Previous]](provider_locations.md) [[-- Index --]](entity_class_index.md) [[Next >]](divisions_of_family_practice.md)
+[[< Previous]](care_providers.md) [[-- Index --]](entity_class_index.md) [[Next >]](cities.md)

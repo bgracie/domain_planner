@@ -95,19 +95,21 @@ defmodule DomainPlanner do
   end
 
   def navigation(io, entity_classes, index) do
-    previous = Enum.at(entity_classes, index - 1)
+    c_sorted_entity_classes = sorted_entity_classes(entity_classes)
+
+    previous = Enum.at(c_sorted_entity_classes, index - 1)
 
     IO.write(io, "[[< Previous]](#{entity_class_filename(previous)})")
     IO.write(io, " [[-- Index --]](entity_class_index.md) ")
 
     next_index =
-      if index == Enum.count(entity_classes) - 1 do
+      if index == Enum.count(c_sorted_entity_classes) - 1 do
         0
       else
         index + 1
       end
 
-    next = Enum.at(entity_classes, next_index)
+    next = Enum.at(c_sorted_entity_classes, next_index)
     IO.write(io, "[[Next >]](#{entity_class_filename(next)})")
 
     IO.write(io, "\n")

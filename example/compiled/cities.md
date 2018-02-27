@@ -1,4 +1,4 @@
-[[< Previous]](areas_of_practice.md) [[-- Index --]](entity_class_index.md) [[Next >]](cities.md)
+[[< Previous]](care_services.md) [[-- Index --]](entity_class_index.md) [[Next >]](divisional_admin_teams.md)
 ___
 # Cities
 
@@ -7,4 +7,4 @@ ___
   * Each [Admin Jurisdiction](admin_jurisdictions.md) is composed of one or more [Cities](cities.md).
 
 ___
-[[< Previous]](areas_of_practice.md) [[-- Index --]](entity_class_index.md) [[Next >]](cities.md)
+[[< Previous]](care_services.md) [[-- Index --]](entity_class_index.md) [[Next >]](divisional_admin_teams.md)

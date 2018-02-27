@@ -1,4 +1,4 @@
-[[< Previous]](domains_of_care.md) [[-- Index --]](entity_class_index.md) [[Next >]](types_of_health.md)
+[[< Previous]](forms.md) [[-- Index --]](entity_class_index.md) [[Next >]](health_problems.md)
 ___
 # General Practitioners
 
@@ -19,4 +19,4 @@ ___
   * The [Provincial Admin Team](provincial_admin_teams.md) is responsible for the whole province's [Care Providers](care_providers.md).
 
 ___
-[[< Previous]](domains_of_care.md) [[-- Index --]](entity_class_index.md) [[Next >]](types_of_health.md)
+[[< Previous]](forms.md) [[-- Index --]](entity_class_index.md) [[Next >]](health_problems.md)

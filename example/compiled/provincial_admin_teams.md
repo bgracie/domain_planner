@@ -1,4 +1,4 @@
-[[< Previous]](users.md) [[-- Index --]](entity_class_index.md) [[Next >]](admin_jurisdictions.md)
+[[< Previous]](provider_locations.md) [[-- Index --]](entity_class_index.md) [[Next >]](site_views.md)
 ___
 # Provincial Admin Teams
 
@@ -11,4 +11,4 @@ ___
   * [Admin Teams](admin_teams.md) are composed of [Admins](admins.md).
 
 ___
-[[< Previous]](users.md) [[-- Index --]](entity_class_index.md) [[Next >]](admin_jurisdictions.md)
+[[< Previous]](provider_locations.md) [[-- Index --]](entity_class_index.md) [[Next >]](site_views.md)

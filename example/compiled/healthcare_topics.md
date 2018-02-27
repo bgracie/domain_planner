@@ -1,4 +1,4 @@
-[[< Previous]](types_of_health.md) [[-- Index --]](entity_class_index.md) [[Next >]](news_items.md)
+[[< Previous]](health_problems.md) [[-- Index --]](entity_class_index.md) [[Next >]](hospitals.md)
 ___
 # Healthcare Topics
 
@@ -15,4 +15,4 @@ ___
   * [Documents](documents.md) may be relevant to various [Healthcare Topics](healthcare_topics.md).
 
 ___
-[[< Previous]](types_of_health.md) [[-- Index --]](entity_class_index.md) [[Next >]](news_items.md)
+[[< Previous]](health_problems.md) [[-- Index --]](entity_class_index.md) [[Next >]](hospitals.md)

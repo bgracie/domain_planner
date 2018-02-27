@@ -1,4 +1,4 @@
-[[< Previous]](care_providers.md) [[-- Index --]](entity_class_index.md) [[Next >]](allied_health_providers.md)
+[[< Previous]](access_keys.md) [[-- Index --]](entity_class_index.md) [[Next >]](admin_teams.md)
 ___
 # Admin Jurisdictions
 
@@ -7,4 +7,4 @@ ___
   * Each [Admin Jurisdiction](admin_jurisdictions.md) is composed of one or more [Cities](cities.md).
 
 ___
-[[< Previous]](care_providers.md) [[-- Index --]](entity_class_index.md) [[Next >]](allied_health_providers.md)
+[[< Previous]](access_keys.md) [[-- Index --]](entity_class_index.md) [[Next >]](admin_teams.md)
