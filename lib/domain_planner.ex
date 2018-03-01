@@ -16,15 +16,18 @@ defmodule DomainPlanner do
   def compile(raw_dir, compiled_dir) do
     Application.start(:yamerl)
 
-    entity_classes = :yamerl_constr.file("#{raw_dir}/entity_classes.yml")
+    entity_classes = "#{raw_dir}/entity_classes.yml"
+      |> :yamerl_constr.file()
       |> Enum.at(0)
       |> Enum.map(&to_map/1)
 
-    type_relationships = :yamerl_constr.file("#{raw_dir}/type_relationships.yml")
+    type_relationships = "#{raw_dir}/type_relationships.yml"
+      |> :yamerl_constr.file()
       |> Enum.at(0)
       |> Enum.map(&to_map/1)
 
-    freeform_relationships = :yamerl_constr.file("#{raw_dir}/freeform_relationships.yml")
+    freeform_relationships = "#{raw_dir}/freeform_relationships.yml"
+      |> :yamerl_constr.file()
       |> Enum.at(0)
       |> Enum.map(&List.to_string/1)
 
@@ -115,7 +118,12 @@ defmodule DomainPlanner do
     IO.write(io, "\n")
   end
 
-  def relevant_freeform_relationships(klass, entity_classes, type_relationships, freeform_relationships) do
+  def relevant_freeform_relationships(
+    klass,
+    entity_classes,
+    type_relationships,
+    freeform_relationships
+  ) do
     (Enum.filter(freeform_relationships, fn (relationship) ->
       String.contains?(relationship, "[#{klass["singular_name"]}]") ||
         String.contains?(relationship, "[#{klass["plural_name"]}]")
@@ -152,7 +160,13 @@ defmodule DomainPlanner do
       end) |> List.flatten)
   end
 
-  def write_subclasses(io, klass, entity_classes, type_relationships, level \\ 2) do
+  def write_subclasses(
+    io,
+    klass,
+    entity_classes,
+    type_relationships,
+    level \\ 2
+  ) do
     subclasses(klass, entity_classes, type_relationships)
       |> Enum.each(fn (subclass) ->
         label = if subclass["singleton"] do
@@ -161,12 +175,22 @@ defmodule DomainPlanner do
             subclass["plural_name"]
           end
 
+        to_write = "#{String.duplicate(" ", level * 2)}* [#{label}]" <>
+          "(#{entity_class_filename(subclass)})" <>
+          "#{formatted_examples(subclass)}  \n"
+
         IO.write(
           io,
-          "#{String.duplicate(" ", level * 2)}* [#{label}](#{entity_class_filename(subclass)})#{formatted_examples(subclass)}  \n"
+          to_write
         )
 
-        write_subclasses(io, subclass, entity_classes, type_relationships, level + 1)
+        write_subclasses(
+          io,
+          subclass,
+          entity_classes,
+          type_relationships,
+          level + 1
+        )
       end)
   end
 
@@ -267,7 +291,13 @@ defmodule DomainPlanner do
                 subclass["plural_name"]
               end
 
-            IO.write(file, "  * [#{l_label}](#{entity_class_filename(subclass)})#{formatted_examples(subclass)}  \n")
+            to_write = "  * [#{l_label}](#{entity_class_filename(subclass)})" <>
+              "#{formatted_examples(subclass)}  \n"
+
+            IO.write(
+              file,
+              to_write
+            )
             write_subclasses(file, subclass, entity_classes, type_relationships)
           end)
 
@@ -286,13 +316,22 @@ defmodule DomainPlanner do
                 superclass["plural_name"]
               end
 
-            IO.write(file, "  * [#{l_label}](#{entity_class_filename(superclass)})  \n")
+            IO.write(
+              file,
+              "  * [#{l_label}](#{entity_class_filename(superclass)})  \n"
+            )
           end)
 
           IO.write(file, "\n")
         end
 
-        c_relevant_freeform_relationships = relevant_freeform_relationships(klass, entity_classes, type_relationships, freeform_relationships)
+        c_relevant_freeform_relationships = relevant_freeform_relationships(
+          klass,
+          entity_classes,
+          type_relationships,
+          freeform_relationships
+        )
+
         if Enum.any?(c_relevant_freeform_relationships) do
           IO.write(file, "**Relationships:**\n")
 
