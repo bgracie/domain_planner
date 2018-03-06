@@ -1,18 +1,4 @@
 defmodule DomainPlanner do
-  @moduledoc """
-  Documentation for DomainPlanner.
-  """
-
-  @doc """
-  Hello world.
-
-  ## Examples
-
-      iex> DomainPlanner.hello
-      :world
-
-  """
-
   def compile(raw_dir, compiled_dir) do
     Application.start(:yamerl)
 

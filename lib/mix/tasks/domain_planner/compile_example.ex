@@ -5,8 +5,8 @@ defmodule Mix.Tasks.DomainPlanner.CompileExample do
 
   def run(_) do
     Mix.Tasks.DomainPlanner.Compile.run([
-      "example/raw",
-      "example/compiled"
+      "test/example/raw",
+      "test/example/compiled"
     ])
   end
 end

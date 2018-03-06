@@ -1,8 +1,7 @@
 defmodule DomainPlannerTest do
   use ExUnit.Case
-  doctest DomainPlanner
 
-  test "greets the world" do
-    assert DomainPlanner.hello() == :world
+  test "Compiles the example" do
+    Mix.Tasks.DomainPlanner.CompileExample.run([])
   end
 end
