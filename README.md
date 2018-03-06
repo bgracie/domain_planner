@@ -10,7 +10,7 @@ Please see [this folder](test/example/raw) for a sample set of YAML plans.
 
 ## Compiling The Plan
 
-Run `mix domain_planner.compile raw_plans_directory compiled_plans directory`
+Run `mix domain_planner.compile <raw_plans_directory> <compiled_plans_directory>`
 
 ## The result
 
