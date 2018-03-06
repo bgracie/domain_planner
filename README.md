@@ -1,21 +1,21 @@
-# DomainPlanner
+# Domain Planner
 
-**TODO: Add description**
+This project is a tool for the high-level planning of a database-backed web app.
+It is meant to organize a 'dictionary' of terminology for the project that is separate from
+the physical modelling of the data.  The plans are written in YAML and compiled to a set of interlinked markdown documents (intended to be viewed in a web-based version control host such as Github or Gitlab).
 
-## Installation
+## Writing The Plan
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `domain_planner` to your list of dependencies in `mix.exs`:
+Please see [this folder](test/example/raw) for a sample set of YAML plans.
 
-```elixir
-def deps do
-  [
-    {:domain_planner, "~> 0.1.0"}
-  ]
-end
-```
+## Compiling The Plan
 
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at [https://hexdocs.pm/domain_planner](https://hexdocs.pm/domain_planner).
+Run `mix domain_planner.compile raw_plans_directory compiled_plans directory`
 
+## The result
+
+Visit [this page](test/example/compiled/entity_class_index.md) to see the compiled example plans
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
