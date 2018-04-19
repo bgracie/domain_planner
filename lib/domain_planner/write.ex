@@ -1,9 +1,9 @@
 defmodule DomainPlanner.Write do
   alias DomainPlanner.Write.Helpers
 
-  def _(compiled_dir, parsed) do
+  def exec(compiled_dir, parsed) do
     index(compiled_dir, parsed)
-    DomainPlanner.Write.ClassPages._(compiled_dir, parsed)
+    DomainPlanner.Write.ClassPages.exec(compiled_dir, parsed)
   end
 
   defp index(compiled_path, raw) do

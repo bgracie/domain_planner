@@ -1,5 +1,5 @@
 defmodule DomainPlanner.Parse do
-  def _(raw_dir) do
+  def exec(raw_dir) do
     %{
       entity_classes: entity_classes(raw_dir),
       type_relationships: type_relationships(raw_dir),

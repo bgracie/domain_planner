@@ -4,9 +4,9 @@ defmodule DomainPlanner do
 
     File.rm_rf("#{compiled_dir}/.")
 
-    DomainPlanner.Write._(
+    DomainPlanner.Write.exec(
       compiled_dir,
-      DomainPlanner.Parse._(raw_dir)
+      DomainPlanner.Parse.exec(raw_dir)
     )
   end
 end

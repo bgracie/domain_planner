@@ -1,7 +1,7 @@
 defmodule DomainPlanner.Write.ClassPages do
   alias DomainPlanner.Write.Helpers
 
-  def _(compiled_dir, raw) do
+  def exec(compiled_dir, raw) do
     raw.entity_classes
     |> Stream.with_index
     |> Enum.each(fn ({elem, index}) ->
