@@ -36,20 +36,35 @@
     superclass: Healthcare Topic
     subclass: Area of Practice
   -
-    superclass: Access Key
-    subclass: User
+    superclass: User Account
+    subclass: Unprivileged User Account
   -
-    superclass: Access Key
-    subclass: Admin
+    superclass: User Account
+    subclass: Limited Admin Account
   -
-    superclass: Access Key
-    subclass: Super Admin
+    superclass: User Account
+    subclass: Unprivileged User Account
+  -
+    superclass: User Account
+    subclass: Super Admin Account
   -
     superclass: Admin Team
-    subclass: Provincial Admin Team
+    subclass: Provincial Care Provider Admin Team
+  -
+    superclass: Admin Team
+    subclass: Provincial Content Admin Team
   -
     superclass: Admin Team
     subclass: Divisional Admin Team
   -
     superclass: Healthcare Topic
     subclass: Population
+  -
+    superclass: Content Item
+    subclass: Form
+  -
+    superclass: Content Item
+    subclass: Document
+  -
+    superclass: Content Item
+    subclass: News Item

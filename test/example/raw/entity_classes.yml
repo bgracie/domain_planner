@@ -89,20 +89,30 @@
     singular_name: Provincial Admin Team
     plural_name: Provincial Admin Teams
   -
-    singular_name: Access Key
-    plural_name: Access Keys
+    singular_name: Provincial Care Provider Admin Team
+    plural_name: Provincial Care Provider Admin Teams
   -
-    singular_name: User
-    plural_name: Users
+    singular_name: Provincial Content Admin Team
+    plural_name: Provincial Content Admin Teams
   -
-    singular_name: Super Admin
-    plural_name: Super Admins
+    singular_name: User Account
+    plural_name: User Accounts
+  -
+    singular_name: Unprivileged User Account
+    plural_name: Unprivileged User Accounts
+  -
+    singular_name: Limited Admin Account
+    plural_name: Limited Admin Accounts
+  -
+    singular_name: Super Admin Account
+    plural_name: Super Admin Accounts
+    definition: Can do any site action.
+  -
+    singular_name: Provincial Site View
+    plural_name: Provincial Site Views
   -
     singular_name: Admin Jurisdiction
     plural_name: Admin Jurisdictions
-  -
-    singular_name: Admin
-    plural_name: Admins
   -
     singular_name: Site View
     plural_name: Site Views
@@ -114,3 +124,6 @@
     plural_name: Populations
     examples:
       - First Nations
+  -
+    singular_name: Content Item
+    plural_name: Content Items

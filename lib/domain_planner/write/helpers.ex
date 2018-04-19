@@ -35,6 +35,11 @@ defmodule DomainPlanner.Write.Helpers do
       Enum.reduce(link_names, relationship, fn (name, acc) ->
         class_ = find(name, raw)
 
+        if !class_ do
+          raise ("Could not find class #{name} while "<>
+            "constructing freeform relationships.")
+        end
+
         examples =
           if class == class_ || !class_["examples"] do
             ""

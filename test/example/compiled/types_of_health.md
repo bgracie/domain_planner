@@ -1,4 +1,4 @@
-[[< Previous]](super_admins.md) [[-- Index --]](entity_class_index.md) [[Next >]](users.md)
+[[< Previous]](super_admin_accounts.md) [[-- Index --]](entity_class_index.md) [[Next >]](unprivileged_user_accounts.md)
 ___
 # Types of Health
 
@@ -15,4 +15,4 @@ ___
   * [Documents](documents.md) may be relevant to various [Healthcare Topics](healthcare_topics.md).
 
 ___
-[[< Previous]](super_admins.md) [[-- Index --]](entity_class_index.md) [[Next >]](users.md)
+[[< Previous]](super_admin_accounts.md) [[-- Index --]](entity_class_index.md) [[Next >]](unprivileged_user_accounts.md)

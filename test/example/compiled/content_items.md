@@ -1,9 +1,11 @@
-[[< Previous]](medical_specialists.md) [[-- Index --]](entity_class_index.md) [[Next >]](offices.md)
+[[< Previous]](cities.md) [[-- Index --]](entity_class_index.md) [[Next >]](divisional_admin_teams.md)
 ___
-# News Items
+# Content Items
 
-**Are a subset of:**
-  * [Content Items](content_items.md)  
+**Include:**
+  * [Forms](forms.md)  
+  * [Documents](documents.md)  
+  * [News Items](news_items.md)  
 
 **Relationships:**
   * Each [Site View](site_views.md) owns [Content Items](content_items.md) and [Unprivileged User Accounts](unprivileged_user_accounts.md).
@@ -11,4 +13,4 @@ ___
   * The [Provincial Content Admin Team](provincial_content_admin_teams.md) is responsible for administering the [Content Items](content_items.md) belonging to the [Provincial Site View](provincial_site_views.md).
 
 ___
-[[< Previous]](medical_specialists.md) [[-- Index --]](entity_class_index.md) [[Next >]](offices.md)
+[[< Previous]](cities.md) [[-- Index --]](entity_class_index.md) [[Next >]](divisional_admin_teams.md)
