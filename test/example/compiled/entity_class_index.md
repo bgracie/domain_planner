@@ -1,4 +1,4 @@
-# Entity Classes
+# Entities
 
   * [Admin Jurisdictions](admin_jurisdictions.md)  
   * [Admin Teams](admin_teams.md)  

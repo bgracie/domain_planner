@@ -8,7 +8,7 @@ defmodule DomainPlanner.Write do
 
   defp index(compiled_path, raw) do
     File.open("#{compiled_path}/entity_class_index.md", [:write], fn (file) ->
-      IO.write(file, "# Entity Classes\n")
+      IO.write(file, "# Entities\n")
       IO.write(file, "\n")
 
 
